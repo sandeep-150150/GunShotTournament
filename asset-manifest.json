@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/GunShotTournament/static/js/main.384d346f.chunk.js",
+    "main.js.map": "/GunShotTournament/static/js/main.384d346f.chunk.js.map",
+    "runtime-main.js": "/GunShotTournament/static/js/runtime-main.78337518.js",
+    "runtime-main.js.map": "/GunShotTournament/static/js/runtime-main.78337518.js.map",
+    "static/js/2.4da523fc.chunk.js": "/GunShotTournament/static/js/2.4da523fc.chunk.js",
+    "static/js/2.4da523fc.chunk.js.map": "/GunShotTournament/static/js/2.4da523fc.chunk.js.map",
+    "index.html": "/GunShotTournament/index.html",
+    "static/js/2.4da523fc.chunk.js.LICENSE.txt": "/GunShotTournament/static/js/2.4da523fc.chunk.js.LICENSE.txt",
+    "static/media/img2.6b1fb2da.jpg": "/GunShotTournament/static/media/img2.6b1fb2da.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78337518.js",
+    "static/js/2.4da523fc.chunk.js",
+    "static/js/main.384d346f.chunk.js"
+  ]
+}
